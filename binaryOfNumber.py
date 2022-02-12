@@ -1,4 +1,4 @@
-# while 
+# while loop
 # 10= 10 div 2=5, 10 rem 2= 0 
 # 5 = 5 div 2 =2, 5 rem 2 =1
 # 2 = 2 div 2 =1, 2 rem 2 = 0
